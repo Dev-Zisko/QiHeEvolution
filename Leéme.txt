@@ -1,0 +1,4 @@
+Nombre de usuario: admin
+contraseña: admin
+
+Direccion de las librerias: ProyectoV3.0\dist\lib
